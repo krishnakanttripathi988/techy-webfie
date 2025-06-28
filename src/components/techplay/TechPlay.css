@@ -1,0 +1,94 @@
+/* src/components/projects/TechPlay.css */
+.projects-container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #0a0a0a;
+    border: 1px solid #111;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(80, 250, 123, 0.2);
+    font-family: 'Source Code Pro', monospace;
+    color: #e0e0e0;
+  }
+  
+  .projects-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #50fa7b;
+    text-shadow: 0 0 6px rgba(80, 250, 123, 0.7);
+    border-bottom: 2px solid #6272a4;
+    padding-bottom: 0.5rem;
+  }
+  
+  .projects-section {
+    margin-top: 2rem;
+  }
+  
+  .projects-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #ff79c6;
+    text-shadow: 0 0 4px rgba(255, 121, 198, 0.7);
+  }
+  
+  .projects-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .projects-section li {
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+  }
+  
+  .projects-section li::before {
+    content: '▸';
+    position: absolute;
+    left: 0;
+    top: 0.2rem;
+    color: #8be9fd;
+    text-shadow: 0 0 4px rgba(139, 233, 253, 0.7);
+  }
+  
+  .projects-section h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: #8be9fd;
+  }
+  
+  .projects-section p {
+    margin: 0;
+    line-height: 1.6;
+    font-size: 1rem;
+  }
+  
+  .projects-section a {
+    color: #50fa7b;
+    text-decoration: underline;
+  }
+  
+  .projects-section a:hover {
+    color: #8be9fd;
+  }
+  
+  @media (max-width: 600px) {
+    .projects-container {
+      margin: 1rem;
+      padding: 1rem;
+    }
+    .projects-title {
+      font-size: 1.6rem;
+    }
+    .projects-section h2 {
+      font-size: 1.3rem;
+    }
+    .projects-section h3 {
+      font-size: 1.1rem;
+    }
+    .projects-section p {
+      font-size: 0.95rem;
+    }
+  }
+  
