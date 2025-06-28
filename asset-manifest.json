@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/krishnakanttripathi988/techy-webfie/static/css/main.2f2df4f6.css",
-    "main.js": "/krishnakanttripathi988/techy-webfie/static/js/main.c9e90368.js",
-    "static/js/453.91f0747d.chunk.js": "/krishnakanttripathi988/techy-webfie/static/js/453.91f0747d.chunk.js",
-    "index.html": "/krishnakanttripathi988/techy-webfie/index.html",
-    "main.2f2df4f6.css.map": "/krishnakanttripathi988/techy-webfie/static/css/main.2f2df4f6.css.map",
-    "main.c9e90368.js.map": "/krishnakanttripathi988/techy-webfie/static/js/main.c9e90368.js.map",
-    "453.91f0747d.chunk.js.map": "/krishnakanttripathi988/techy-webfie/static/js/453.91f0747d.chunk.js.map"
+    "main.css": "./static/css/main.2f2df4f6.css",
+    "main.js": "./static/js/main.651b0c12.js",
+    "static/js/453.91f0747d.chunk.js": "./static/js/453.91f0747d.chunk.js",
+    "index.html": "./index.html",
+    "main.2f2df4f6.css.map": "./static/css/main.2f2df4f6.css.map",
+    "main.651b0c12.js.map": "./static/js/main.651b0c12.js.map",
+    "453.91f0747d.chunk.js.map": "./static/js/453.91f0747d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f2df4f6.css",
-    "static/js/main.c9e90368.js"
+    "static/js/main.651b0c12.js"
   ]
 }
