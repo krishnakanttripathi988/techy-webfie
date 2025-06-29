@@ -113,15 +113,21 @@ export default function Profile() {
           <br />
           <span style={{ color: '#ff79c6', fontWeight: 'bold' }}>[ EXPERIENCE ]</span>
           <br />
-          💼 Software Engineer, Digio (Apr 2023 – Present)
+          💼 Senior Software Engineer, Digio (Apr 2025 – Present)
           <br />
-          • Led AML monitoring pipeline handling 5K QPS using Spring Boot, Spark & Solr; reduced latency by 40%
+          • Worked on revamp of Bank Account Verification, bringing logic of full fledged auto switching banks based on the behaviours in case of Penny Less or Penny Drop methodology for Bank Account Verification.
           <br />
-          • Developed Business Verification dashboards in React & Dropwizard; improved load times by 60%
+          • Scaled up overall KRA (KYC Registration Agency) integration and failover logics;
           <br />
-          • Migrated 8 microservices to Kubernetes (AWS EKS); implemented CI/CD with Jenkins & GitHub Actions
+          • Worked on improving success rate of CKYCRR (Central KYC Registration Repository) integration.
           <br />
-          • Mentored 4 interns on fuzzy-matching (TensorFlow) and VideoKYC analytics best practices
+          💼 Software Engineer, Digio (Apr 2023 – Apr 2025)
+          <br />
+          • Led AML monitoring pipeline handling 5K QPS using Spring Boot, Spark & Solr
+          <br />
+          • Developed Business Verification dashboards in Angular & Dropwizard
+          <br />
+          • Worked in KYC team over several products and improving success rate and integration of several external entities.
           <br />
           👨‍💻 Intern, Digio (Mar 2022 – Mar 2023)
           <br />

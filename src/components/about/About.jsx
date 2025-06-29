@@ -31,7 +31,6 @@ export default function About() {
       <section className="about-section">
         <h2>🚀 Projects & Interests</h2>
         <ul>
-          <li>Edge-AI Face Recognition on Raspberry Pi cluster (98% accuracy)</li>
           <li>Custom Voice-Cloning model using PyTorch</li>
           <li>Open-source contributions in CI/CD tools and ML frameworks</li>
         </ul>
