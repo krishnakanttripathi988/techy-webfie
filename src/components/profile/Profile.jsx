@@ -150,11 +150,11 @@ export default function Profile() {
           <br />
           <span style={{ color: '#f1fa8c', fontWeight: 'bold' }}>[ SKILLS & TOOLS ]</span>
           <br />
-          • <b>Languages:</b> Java ★★★★★ | Go ★★★★☆ | Python ★★★★☆ | TypeScript ★★★★☆
+          • <b>Languages:</b> Java ★★★★★ | Go ★★★★☆ | Python ★★★★★ | TypeScript ★★★★☆ | JavaScript ★★★★★
           <br />
-          • <b>Backend:</b> Spring Boot, Dropwizard, Flask, gRPC, GraphQL, REST
+          • <b>Backend:</b> Spring Boot, Dropwizard, Flask, GraphQL, REST
           <br />
-          • <b>Frontend:</b> React.js, Redux, react-console-emulator, Webpack
+          • <b>Frontend:</b> React.js, Redux, Webpack, Angular
           <br />
           • <b>Cloud:</b> AWS (EC2, S3, RDS, EKS), GCP (Cloud Run, Firebase)
           <br />
